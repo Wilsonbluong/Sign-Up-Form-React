@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sign-up-form-react/static/css/main.2aaac198.chunk.css",
+    "main.js": "/sign-up-form-react/static/js/main.10f38b9b.chunk.js",
+    "main.js.map": "/sign-up-form-react/static/js/main.10f38b9b.chunk.js.map",
+    "runtime-main.js": "/sign-up-form-react/static/js/runtime-main.8d79b7d2.js",
+    "runtime-main.js.map": "/sign-up-form-react/static/js/runtime-main.8d79b7d2.js.map",
+    "static/js/2.0b42497a.chunk.js": "/sign-up-form-react/static/js/2.0b42497a.chunk.js",
+    "static/js/2.0b42497a.chunk.js.map": "/sign-up-form-react/static/js/2.0b42497a.chunk.js.map",
+    "index.html": "/sign-up-form-react/index.html",
+    "precache-manifest.b3cdfae4e1140ead1c512f11b5072295.js": "/sign-up-form-react/precache-manifest.b3cdfae4e1140ead1c512f11b5072295.js",
+    "service-worker.js": "/sign-up-form-react/service-worker.js",
+    "static/css/main.2aaac198.chunk.css.map": "/sign-up-form-react/static/css/main.2aaac198.chunk.css.map",
+    "static/js/2.0b42497a.chunk.js.LICENSE.txt": "/sign-up-form-react/static/js/2.0b42497a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d79b7d2.js",
+    "static/js/2.0b42497a.chunk.js",
+    "static/css/main.2aaac198.chunk.css",
+    "static/js/main.10f38b9b.chunk.js"
+  ]
+}
