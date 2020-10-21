@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sign-up-form-react/static/css/main.2aaac198.chunk.css",
-    "main.js": "/sign-up-form-react/static/js/main.10f38b9b.chunk.js",
-    "main.js.map": "/sign-up-form-react/static/js/main.10f38b9b.chunk.js.map",
-    "runtime-main.js": "/sign-up-form-react/static/js/runtime-main.8d79b7d2.js",
-    "runtime-main.js.map": "/sign-up-form-react/static/js/runtime-main.8d79b7d2.js.map",
-    "static/js/2.0b42497a.chunk.js": "/sign-up-form-react/static/js/2.0b42497a.chunk.js",
-    "static/js/2.0b42497a.chunk.js.map": "/sign-up-form-react/static/js/2.0b42497a.chunk.js.map",
-    "index.html": "/sign-up-form-react/index.html",
-    "precache-manifest.b3cdfae4e1140ead1c512f11b5072295.js": "/sign-up-form-react/precache-manifest.b3cdfae4e1140ead1c512f11b5072295.js",
-    "service-worker.js": "/sign-up-form-react/service-worker.js",
-    "static/css/main.2aaac198.chunk.css.map": "/sign-up-form-react/static/css/main.2aaac198.chunk.css.map",
-    "static/js/2.0b42497a.chunk.js.LICENSE.txt": "/sign-up-form-react/static/js/2.0b42497a.chunk.js.LICENSE.txt"
+    "main.css": "/Sign-Up-Form-React/static/css/main.2aaac198.chunk.css",
+    "main.js": "/Sign-Up-Form-React/static/js/main.10f38b9b.chunk.js",
+    "main.js.map": "/Sign-Up-Form-React/static/js/main.10f38b9b.chunk.js.map",
+    "runtime-main.js": "/Sign-Up-Form-React/static/js/runtime-main.4a0e465a.js",
+    "runtime-main.js.map": "/Sign-Up-Form-React/static/js/runtime-main.4a0e465a.js.map",
+    "static/js/2.0b42497a.chunk.js": "/Sign-Up-Form-React/static/js/2.0b42497a.chunk.js",
+    "static/js/2.0b42497a.chunk.js.map": "/Sign-Up-Form-React/static/js/2.0b42497a.chunk.js.map",
+    "index.html": "/Sign-Up-Form-React/index.html",
+    "precache-manifest.dee0938e4cb22cd67550f38d782b32b6.js": "/Sign-Up-Form-React/precache-manifest.dee0938e4cb22cd67550f38d782b32b6.js",
+    "service-worker.js": "/Sign-Up-Form-React/service-worker.js",
+    "static/css/main.2aaac198.chunk.css.map": "/Sign-Up-Form-React/static/css/main.2aaac198.chunk.css.map",
+    "static/js/2.0b42497a.chunk.js.LICENSE.txt": "/Sign-Up-Form-React/static/js/2.0b42497a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d79b7d2.js",
+    "static/js/runtime-main.4a0e465a.js",
     "static/js/2.0b42497a.chunk.js",
     "static/css/main.2aaac198.chunk.css",
     "static/js/main.10f38b9b.chunk.js"
